@@ -5,7 +5,7 @@ import ExpenseTracker from './ExpenseTracker'
 function App() {
 
   return (
-    <div className='bg-gray-800 w-full h-[100vh] items-center'>
+    <div className='app'>
      <ExpenseTracker/>
     </div>
   )

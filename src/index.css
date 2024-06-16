@@ -2,6 +2,6 @@
 @tailwind components;
 @tailwind utilities;
 
-body{
-  margin: 0;
+body {
+  @apply bg-gray-900 text-white;
 }
